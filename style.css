@@ -1,0 +1,18 @@
+.heading
+{
+    align-items: center;
+}
+
+canvas
+{
+    background-color: white;
+    border: 5px, solid, black;
+    box-shadow: 5px;
+}
+
+.heading
+{
+    text-align: center;
+    box-shadow: 5px;
+    text-decoration-color: black;
+}
